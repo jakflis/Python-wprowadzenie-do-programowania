@@ -1,2 +1,1 @@
-# Wprowadzenie-do-programowania---python
-Programy stworzone na ćwiczeniach laboratoryjnych przedmiotu "Wprowadzenie do programowania" w języku Python.
+Ten projekt to mój rozbudowany kod zaliczeniowy. W folderze "Projekt zaliczeniowy" znajduje się program sterujący prostą elektroniką (przyciski, diody LED, serwomechanizm, potencjometr) napisany w MicroPythonie. Poszczególne zadania to etapy rozbudowy programu, które dodają kolejne funkcjonalności. Do repozytorium dodałem również mniejsze programy z ćwiczeń laboratoryjnych. Do każdego z nich dopisałem krótki skrypt weryfikujący działanie programu. 
